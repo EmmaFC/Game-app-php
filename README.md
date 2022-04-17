@@ -4,8 +4,8 @@
 Ningún requisito en concreto. Crea un juego con javascript (utiliza lo aprendido, variables, funciones, bucles, código modular, ...), de temética libre o eligiendo una de las opciones que encontrarás a continuación.
 
 ## Opciónes para inspirarse
-Tik Tak Toe
-Paper Scissor Stone
+Tik Tak Toe / 
+Paper Scissor Stone / 
 Memo (pair of cards, juego de parejas)
 
 ## Extra
@@ -18,5 +18,5 @@ A realizar durante las vacaciones.
 Enlace al repositoria de GitHub.
 
 ## By
-Emma Fernández Corte
+Emma Fernández Corte / 
 Background image created by freepik - www.freepik.com

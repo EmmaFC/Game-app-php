@@ -17,6 +17,6 @@ A realizar durante las vacaciones.
 ## Entregables
 Enlace al repositoria de GitHub.
 
-## By
+## Creado por
 Emma Fernández Corte / 
 Background image created by freepik - www.freepik.com

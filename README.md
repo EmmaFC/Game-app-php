@@ -1,4 +1,4 @@
-# GameOn - Game with PHP OOP
+# GameOn - Desarrollo de Juego PHP POO
 
 ## Contexto del proyecto
 Ningún requisito en concreto. Crea un juego con javascript (utiliza lo aprendido, variables, funciones, bucles, código modular, ...), de temética libre o eligiendo una de las opciones que encontrarás a continuación.
